@@ -1,0 +1,94 @@
+body{
+	background-image: url(http://vicinitycoffee.com/wp-content/uploads/2016/05/wood-background.jpg);
+}
+.navagation-background {
+	width: 100%;
+	background-color: white;
+	border-bottom: 3px solid #737373;
+}
+
+.navagation-portfolio-css {
+	width: 960px;
+	background-color: white;
+	margin: auto;
+}
+#navbar-name {
+	float: left;
+	font-size: 22px;
+	padding: 30px; 
+	background-color: #4aaaa5;
+	color: white;
+}
+#navagationbar-links {
+	padding-top: 32px;
+	font-size: 14px;
+}
+.main {
+	height: 100%;
+	
+}
+.main-wrapper{
+	
+	width: 960px;
+	margin-top: 36px;    
+	margin: auto;
+}
+.main-content-background{
+	width: 650px;    
+	padding: 0px 30px 0px 30px;
+	background: white;
+}
+
+.mainheader  {
+	padding: 30px 0px; 
+	font-size: 22px;
+	color: #4aaaa5;
+	
+}
+.maincontent {
+	margin: 30px 0px;   
+
+}
+
+#snowman {
+	float: left;
+	height: 384px; 
+	width: 288px; 
+	padding: 5px 30px 15px 0px;
+}
+.maincontent article {
+	clear: left;
+}
+.mainheader {
+	border-bottom: 2px solid grey;
+
+}
+.connectWithMe-Background {
+	padding: 0px 30px 0px 30px;
+	width: 270px;
+	
+	float: right;
+	background-color: white;
+}
+.connectHeader {
+	Margin: 30px 0px 15px 0px;
+	font-size: 22px;
+	color: #4aaaa5;
+	
+}
+.connectLinks {
+	padding: 15px 0px 30px 0px;
+
+}
+#github, #linkedin, #stackoverflow {
+	height: 60px;
+	width: 60px;
+} 
+.footer {
+
+	padding: 30px;
+	color: White;
+	background-color: grey;
+	text-align: center;
+	border-top: 10px solid #4aaaa5;
+}
